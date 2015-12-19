@@ -1,0 +1,47 @@
+﻿body {
+    background-image:url("../footer_lodyas.png");
+    background-repeat:repeat;
+    max-width:100%;
+    background-size:cover; /*To Make Responsive Background*/
+    z-index:-1;
+    height:auto;
+    height:100%;
+    max-height:100%;
+}
+
+.index_header
+{
+    z-index:1;
+    color:white;
+    background-color:grey;
+    height:5%;
+}
+
+.navbar_color
+{
+    background-color:purple;
+}
+
+.mainbody_margin{
+    margin-left:10%;
+    margin-right:10%;
+    opacity:1;
+    text-align:center;
+    height:100%;
+    margin-bottom:0px;
+}
+
+.fb_button
+{
+    color:white;
+    background-color:#394F87;
+    max-height:100%;
+    max-width:100%;
+    height:100%;
+    width:100%;
+}
+
+.fb_button:hover
+{
+    color:white;
+}
